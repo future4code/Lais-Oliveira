@@ -55,10 +55,3 @@ const produtos = [
     { nome: "Berinjela kg", categoria: "Hortifruti", preco: 8.99 },
     { nome: "Sabão em Pó Ypê", categoria: "Limpeza", preco: 10.80 }
  ]
-
-*/
-
-
-
-
-    
